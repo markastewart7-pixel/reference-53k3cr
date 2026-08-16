@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://markastewart7-pixel.github.io/reference-53k3cr/sitemap.xml
